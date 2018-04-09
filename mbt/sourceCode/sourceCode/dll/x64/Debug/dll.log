@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  AttestationApi.cpp
+c:\wlf\gohigh\doc\tpm\tpm-windows\mbt\sourcecode\sourcecode\dll\attestationapi.cpp(409): error C2228: left of '.data' must have class/struct/union
+  c:\wlf\gohigh\doc\tpm\tpm-windows\mbt\sourcecode\sourcecode\dll\attestationapi.cpp(409): note: type is 'BYTE [20]'
+c:\wlf\gohigh\doc\tpm\tpm-windows\mbt\sourcecode\sourcecode\dll\attestationapi.cpp(407): error C2660: 'memcpy_s': function does not take 3 arguments
+  Tpm12.cpp
+c:\wlf\gohigh\doc\tpm\tpm-windows\mbt\sourcecode\sourcecode\dll\tpm12.cpp(918): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  TPM20.cpp
+c:\wlf\gohigh\doc\tpm\tpm-windows\mbt\sourcecode\sourcecode\dll\tpm20.cpp(3476): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Generating Code...

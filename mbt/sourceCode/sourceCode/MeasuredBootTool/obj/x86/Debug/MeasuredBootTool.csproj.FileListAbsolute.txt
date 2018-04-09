@@ -1,0 +1,5 @@
+C:\wlf\gohigh\DOC\TPM\TPM-windows\mbt\sourceCode\sourceCode\MeasuredBootTool\bin\Debug\MeasuredBootTool.exe
+C:\wlf\gohigh\DOC\TPM\TPM-windows\mbt\sourceCode\sourceCode\MeasuredBootTool\bin\Debug\MeasuredBootTool.pdb
+C:\wlf\gohigh\DOC\TPM\TPM-windows\mbt\sourceCode\sourceCode\MeasuredBootTool\obj\x86\Debug\MeasuredBootTool.csproj.CoreCompileInputs.cache
+C:\wlf\gohigh\DOC\TPM\TPM-windows\mbt\sourceCode\sourceCode\MeasuredBootTool\obj\x86\Debug\MeasuredBootTool.exe
+C:\wlf\gohigh\DOC\TPM\TPM-windows\mbt\sourceCode\sourceCode\MeasuredBootTool\obj\x86\Debug\MeasuredBootTool.pdb

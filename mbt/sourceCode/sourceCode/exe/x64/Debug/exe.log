@@ -1,0 +1,19 @@
+﻿  stdafx.cpp
+  PCPTool.cpp
+  SDKSample.cpp
+  Support.cpp
+c:\wlf\gohigh\doc\tpm\tpm-windows\mbt\sourcecode\sourcecode\exe\support.cpp(530): error C2228: left of '.data' must have class/struct/union
+  c:\wlf\gohigh\doc\tpm\tpm-windows\mbt\sourcecode\sourcecode\exe\support.cpp(530): note: type is 'BYTE [20]'
+c:\wlf\gohigh\doc\tpm\tpm-windows\mbt\sourcecode\sourcecode\exe\support.cpp(532): error C2228: left of '.data' must have class/struct/union
+  c:\wlf\gohigh\doc\tpm\tpm-windows\mbt\sourcecode\sourcecode\exe\support.cpp(532): note: type is 'BYTE [20]'
+c:\wlf\gohigh\doc\tpm\tpm-windows\mbt\sourcecode\sourcecode\exe\support.cpp(559): error C2228: left of '.data' must have class/struct/union
+  c:\wlf\gohigh\doc\tpm\tpm-windows\mbt\sourcecode\sourcecode\exe\support.cpp(559): note: type is 'BYTE [20]'
+c:\wlf\gohigh\doc\tpm\tpm-windows\mbt\sourcecode\sourcecode\exe\support.cpp(560): error C2228: left of '.data' must have class/struct/union
+  c:\wlf\gohigh\doc\tpm\tpm-windows\mbt\sourcecode\sourcecode\exe\support.cpp(560): note: type is 'BYTE [20]'
+c:\wlf\gohigh\doc\tpm\tpm-windows\mbt\sourcecode\sourcecode\exe\support.cpp(558): error C2660: 'memcmp': function does not take 1 arguments
+c:\wlf\gohigh\doc\tpm\tpm-windows\mbt\sourcecode\sourcecode\exe\support.cpp(647): error C2228: left of '.data' must have class/struct/union
+  c:\wlf\gohigh\doc\tpm\tpm-windows\mbt\sourcecode\sourcecode\exe\support.cpp(647): note: type is 'BYTE [20]'
+c:\wlf\gohigh\doc\tpm\tpm-windows\mbt\sourcecode\sourcecode\exe\support.cpp(647): error C2660: 'memcpy_s': function does not take 3 arguments
+c:\wlf\gohigh\doc\tpm\tpm-windows\mbt\sourcecode\sourcecode\exe\support.cpp(769): warning C4474: 'wprintf' : too many arguments passed for format string
+  c:\wlf\gohigh\doc\tpm\tpm-windows\mbt\sourcecode\sourcecode\exe\support.cpp(769): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Generating Code...

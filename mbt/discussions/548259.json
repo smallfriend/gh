@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "1255062",
+    "ThreadId": "548259",
+    "Html": "Can we implement this measured boot in windows 7??\r<br />\nHow can we implement static root of trust(SRT) in Windows like we can using tboot in Linux??\r<br />\nHow can remote attestation be implemented in Windows using SRT??<br />\n",
+    "PostedDate": "2014-06-10T23:33:29.387-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]
